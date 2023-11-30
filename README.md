@@ -11,12 +11,8 @@
 </p>
 
 <div align="center">
-  LoginJWT
+  LoginJWT - Desafio Prático 2
 </div>
-
-<p align="center">
-   <img src="" width="400px"
- </p>
 
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,8 +22,13 @@
 
 ## :clipboard: Sobre o Projeto
 
-Desafio Técnico
+Desenvolver uma API RESTful para autenticação de usuários, que permita operações de cadastro (sign up),
+autenticação (sign in) e recuperação de informações do usuário.
 
+Especificações:
+- Persistência de dados;
+- Comunicação via JSON;
+- Resposta à erros;
 
 ## :computer: Tecnologias utilizadas
 
@@ -39,7 +40,21 @@ Desafio Técnico
 </p>
 
 Skills:
+- JavaScript;
+- Node;
+- MongoDB Compass;
+- Mongo Cloud;
+- Express;
+- Dotenv;
+- JWT;
+- @Hapi/Joi;
+- bcryptjs;
+- Insomnia (para envio das requisições);
 
+## 🚀 Resultados
+<p>
+   <img src="" width="400px">
+</p>
 
 
 ## :closed_book: Licença
