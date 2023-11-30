@@ -65,7 +65,7 @@ Skills:
 <p align="center">
    <img src="./images/erroRegistroPassword.PNG" width="800px">
 </p>
-<p>Usuário registrado no banco de dados:</p>
+<p>Usuário registrado no banco de dados (dados sensíveis criptografados):</p>
 <p align="center">
    <img src="./images/mongodb.PNG" width="800px">
 </p>
