@@ -52,10 +52,46 @@ Skills:
 - Insomnia (para envio das requisições);
 
 ## 🚀 Resultados
-<p>
-   <img src="" width="400px">
+<p>Registrando um usuário:</p>
+<p align="center">
+   <img src="./images/register.PNG" width="600px">
 </p>
-
+<p>Registrando com email já cadastrado:</p>
+<p align="center">
+   <img src="./images/emailjaexiste.PNG" width="600px">
+</p>
+<p>Registrando com dados fora do padrão:</p></br>
+<p>Perceba que a validação da senha deve ser feita antes de enviar os dados pra criptografia pois, caso contrário ela ficaria com o número de caracteres que atenderia os requisitos (entre 6 e 200); Para isso foi utilizado o @hapi/Joi.</p>
+<p align="center">
+   <img src="./images/erroRegistroPassword.PNG" width="600px">
+</p>
+<p>Usuário registrado no banco de dados:</p>
+<p align="center">
+   <img src="./images/mongodb.PNG" width="600px">
+</p>
+<p>Na cloud:</p>
+<p align="center">
+   <img src="./images/cloud.PNG" width="600px">
+</p>
+<p>Login com senha ou email inválido:</p>
+<p align="center">
+   <img src="./images/loginDadosErrados.PNG" width="600px">
+</p>
+<p>Respostas login certo:</p>
+<p align="center">
+   <img src="./images/login1.PNG" width="600px">
+</p>
+<p align="center">
+   <img src="./images//login2.PNG" width="600px">
+</p>
+<p>Buscar dados com token inválido:</p>
+<p align="center">
+   <img src="./images/buscarUserTokenInvalido.PNG" width="600px">
+</p>
+<p>Buscar dados com token válido:</p>
+<p align="center">
+   <img src="./images/buscarUser.PNG" width="600px">
+</p>
 
 ## :closed_book: Licença
 
