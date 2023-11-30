@@ -82,7 +82,7 @@ Skills:
    <img src="./images/login1.PNG" width="800px">
 </p>
 <p align="center">
-   <img src="./images//login2.PNG" width="800px">
+   <img src="./images/login2.PNG" width="800px">
 </p>
 <p>Buscar dados com token inválido:</p>
 <p align="center">
