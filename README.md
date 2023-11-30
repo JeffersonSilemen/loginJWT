@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  LoginJWT - Desafio Prático 2
+ <h1>LoginJWT - Desafio Prático 2</h1>
 </div>
 
 <p align="center">
